@@ -38,6 +38,7 @@ else
     local BIN_MAP = {
         ["linux-x86_64"] = "linux_amd64",
         ["macos-aarch64"] = "macos",
+        ["macos-x86_64"] = "macos",
         ["windows-x86_64"] = "win64_mingw-w64",
     }
 
